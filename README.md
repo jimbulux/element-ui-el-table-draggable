@@ -1,11 +1,11 @@
 # element-ui-el-table-draggable
 
-Make 'el-table' of 'element UI' sortable.
+Make 'el-table' of 'element UI' sortable and draggable using https://github.com/SortableJS/Sortable.
 
 ## Installation
 
 ```
-$ npm i -save element-ui-el-table-draggable
+$ npm i -save el-table-draggable
 ```
 
 ## Quick Start
@@ -64,4 +64,4 @@ Specify animation speed (ms).
 
 ## Contribution
 
-Please make sure to read the contributing guide ([日本語](CONTRIBUTING-jp.md) | [English](CONTRIBUTING.md)) before making a pull request.
+Please make sure to read the contributing guide [English](CONTRIBUTING.md)) before making a pull request.
